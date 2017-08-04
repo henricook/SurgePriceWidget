@@ -13,6 +13,14 @@ When you have obtained a server token, create a new file in `res/values` called 
 </resources>
 ```
 
+### Build Instructions
+
+a) Clone the project repo
+b) Install Android Studio
+c) Open the project in Android Studio
+d) Go to developer.uber.com and get an API key, then follow the instructions in the readme to add the API key to your project
+e) Build and run
+
 ### Open Source
 
 This app uses Retrofit and Otto, both by Square Inc.
